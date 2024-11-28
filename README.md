@@ -13,7 +13,7 @@
 - **Future Plans**: Support for additional models.
 ## Demo
 
-
+https://github.com/OthersideAI/self-operating-computer/assets/42594239/9e8abc96-c76a-46fb-9b13-03678b3c67e0
 ## Run `Self-Computing`
 
 1. **Install the project**
