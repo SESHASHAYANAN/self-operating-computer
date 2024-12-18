@@ -5,7 +5,7 @@
   <strong>Unlock hands-free computing: AI-powered voice control that bridges vision, language, and interaction across cutting-edge multimodal models.</strong>
 </p>
 <p align="center">
-  Using the same inputs and outputs as a human operator, the model views the screen and decides on mouse and keyboard actions to reach a given objective. 
+  Using the same inputs and outputs as a human operator, the model views the screen and decides on mouse and keyboard actions to reach a given objectives. 
 </p>
 
 ## Key Features
