@@ -1,4 +1,4 @@
-<h1 align="center">Self-Operating computer Using multimodal models Frameworks</h1>
+<h1 align="center">Self-Operating computer Using multimodal models Framework</h1>
 
 <p align="center">
   <strong>A framework to enable multimodal models to operate a computer.</strong>
