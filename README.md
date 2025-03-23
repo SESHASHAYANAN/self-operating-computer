@@ -1,5 +1,4 @@
 <h1 align="center">Self-Operating computer Using multimodal models Framework</h1>
-
 <p align="center">
   <strong>A framework to enable multimodal models to operate a computer.</strong>
   <strong>Unlock hands-free computing: AI-powered voice control that bridges vision, language, and interaction across cutting-edge multimodal models.</strong>
